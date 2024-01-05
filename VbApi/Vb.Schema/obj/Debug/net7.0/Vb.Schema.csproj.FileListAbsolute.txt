@@ -1,0 +1,15 @@
+/Users/ahmetgurel/Desktop/ASP.NET/Patikadeneme/pk-ab/VbApi/Vb.Schema/bin/Debug/net7.0/Vb.Schema.deps.json
+/Users/ahmetgurel/Desktop/ASP.NET/Patikadeneme/pk-ab/VbApi/Vb.Schema/bin/Debug/net7.0/Vb.Schema.dll
+/Users/ahmetgurel/Desktop/ASP.NET/Patikadeneme/pk-ab/VbApi/Vb.Schema/bin/Debug/net7.0/Vb.Schema.pdb
+/Users/ahmetgurel/Desktop/ASP.NET/Patikadeneme/pk-ab/VbApi/Vb.Schema/bin/Debug/net7.0/Vb.Base.dll
+/Users/ahmetgurel/Desktop/ASP.NET/Patikadeneme/pk-ab/VbApi/Vb.Schema/bin/Debug/net7.0/Vb.Base.pdb
+/Users/ahmetgurel/Desktop/ASP.NET/Patikadeneme/pk-ab/VbApi/Vb.Schema/obj/Debug/net7.0/Vb.Schema.csproj.AssemblyReference.cache
+/Users/ahmetgurel/Desktop/ASP.NET/Patikadeneme/pk-ab/VbApi/Vb.Schema/obj/Debug/net7.0/Vb.Schema.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetgurel/Desktop/ASP.NET/Patikadeneme/pk-ab/VbApi/Vb.Schema/obj/Debug/net7.0/Vb.Schema.AssemblyInfoInputs.cache
+/Users/ahmetgurel/Desktop/ASP.NET/Patikadeneme/pk-ab/VbApi/Vb.Schema/obj/Debug/net7.0/Vb.Schema.AssemblyInfo.cs
+/Users/ahmetgurel/Desktop/ASP.NET/Patikadeneme/pk-ab/VbApi/Vb.Schema/obj/Debug/net7.0/Vb.Schema.csproj.CoreCompileInputs.cache
+/Users/ahmetgurel/Desktop/ASP.NET/Patikadeneme/pk-ab/VbApi/Vb.Schema/obj/Debug/net7.0/Vb.Schema.csproj.CopyComplete
+/Users/ahmetgurel/Desktop/ASP.NET/Patikadeneme/pk-ab/VbApi/Vb.Schema/obj/Debug/net7.0/Vb.Schema.dll
+/Users/ahmetgurel/Desktop/ASP.NET/Patikadeneme/pk-ab/VbApi/Vb.Schema/obj/Debug/net7.0/refint/Vb.Schema.dll
+/Users/ahmetgurel/Desktop/ASP.NET/Patikadeneme/pk-ab/VbApi/Vb.Schema/obj/Debug/net7.0/Vb.Schema.pdb
+/Users/ahmetgurel/Desktop/ASP.NET/Patikadeneme/pk-ab/VbApi/Vb.Schema/obj/Debug/net7.0/ref/Vb.Schema.dll
